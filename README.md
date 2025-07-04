@@ -26,7 +26,7 @@ Use at your own discretion. Do not spam people with this. We discourage any stal
 
 Clone the project:
 ```
-git clone https://github.com/arrocy/arrocy-wg-frontend.git
+git clone https://github.com/arrocy/arrocy-cloud.git
 ```
 
 OR just download the zip file, upload it to your web server, then extract.
