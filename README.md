@@ -39,6 +39,9 @@ It is highly recommended to delete these before you extract the new version:
 
 ## Warning
 - This is not an update from AWG-Extended! The base-code and database are not compatible.
+- This script will connect to Arrocy WG Cloud backend, and the backend will do the sending with the data sent from this script.
+- You are operating the frontend with all the features, the backend just processing your messages and send them.
+- Database with all information (including customers data and phonebook contacts) will be managed by you and stays in the frontend side.
 
 ## Usage
 - Open url: https://my-domain.com
